@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @abhishek-kgithub
-- 👀 I’m interested in software and web development.
-- 🌱 I’m currently learning full stack development.
+- 👀 I’m interested in Python Developer.
+- 🌱 I’m currently learning Data Science.
 - 💞️ I’m looking to collaborate on google.
 - 📫 How to reach me kumarabhishek551400@gmail.com  // https://www.linkedin.com/in/abhishek-kumar-666a77195
 
