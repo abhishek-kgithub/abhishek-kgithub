@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @abhishek-kgithub
 - 👀 I’m interested in Python Developer.
 - 🌱 I’m currently learning Data Science.
-- 📫 How to reach me kumarabhishek551400@gmail.com  // https://www.linkedin.com/in/abhishek-kumar-666a77195
+- 📫 How to reach me kumarabhishek551400@gmail.com  // https://www.linkedin.com/in/abhishek-maurya-666a77195/
 - Website not responsive--https://abhishek-kgithub.github.io/abhishek.github.io/
 
 <!---
